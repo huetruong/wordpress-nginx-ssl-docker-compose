@@ -1,1 +1,1 @@
-# wordpress-iginx-ssl-docker-compose
+# wordpress-nginx-ssl-docker-compose
